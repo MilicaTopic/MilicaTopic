@@ -17,6 +17,4 @@ I’m a B.Sc. Web Development student at SRH Berlin University, currently in my 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MilicaTopic&color=0)
 
----
-![](https://komarev.com/ghpvc/?username=Milica%20Topic&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
